@@ -1,8 +1,13 @@
 @import "tailwindcss";
 
 * {
+<<<<<<< HEAD
   font-family: "Inter";
 }
 body{
   background-color: black;
 }
+=======
+  font-family: "Inter", sans-serif;
+}
+>>>>>>> 812055899e147cf74493707ee0239acf8077e136
