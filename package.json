@@ -1,14 +1,10 @@
 {
   "name": "react-dti05-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
     "dev": "vite --host --port 5599",
-=======
-    "dev": "vite --host --port 2499",
->>>>>>> 812055899e147cf74493707ee0239acf8077e136
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -17,10 +13,7 @@
     "@tailwindcss/vite": "^4.1.13",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-<<<<<<< HEAD
     "react-icons": "^5.5.0",
-=======
->>>>>>> 812055899e147cf74493707ee0239acf8077e136
     "react-router-dom": "^7.9.3",
     "tailwindcss": "^4.1.13"
   },
@@ -33,13 +26,6 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.4.0",
-<<<<<<< HEAD
     "vite": "^7.1.7"
-=======
-    "vite": "npm:rolldown-vite@7.1.12"
-  },
-  "overrides": {
-    "vite": "npm:rolldown-vite@7.1.12"
->>>>>>> 812055899e147cf74493707ee0239acf8077e136
   }
 }

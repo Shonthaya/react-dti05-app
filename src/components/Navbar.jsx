@@ -13,3 +13,5 @@ export default function NavBar({hc, ac, cc, pc}) {
    </>
   );
 }
+
+
